@@ -6,7 +6,7 @@
 //
 // Uso:
 //
-//	import "github.com/tuusuario/learnGoWithTests/helloworld"
+//	import "github.com/tuusuario/learn_go_with_tests/helloworld"
 //
 //	saludo := helloworld.Hello("Mundo")
 //	fmt.Println(saludo)

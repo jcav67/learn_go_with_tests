@@ -4,7 +4,7 @@
 //
 // Ejemplo de uso:
 //
-//	import "github.com/tuusuario/learnGoWithTests/integers"
+//	import "github.com/jcav67/learn_go_with_tests/integers"
 //
 //	func main() {
 //	    resultado := integers.Add(2, 3)

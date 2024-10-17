@@ -40,7 +40,7 @@ func TestAreaTableTest(t *testing.T) {
 		shape        Shape
 		expectedArea float64
 	}{
-		{shape: Rectangle{Width: 12, Height: 6}, expectedArea: 73.0},
+		{shape: Rectangle{Width: 12, Height: 6}, expectedArea: 72.0},
 		{shape: Circle{Radius: 10}, expectedArea: 314.1592653589793},
 		{shape: Triangle{Base: 12, Height: 6}, expectedArea: 36.0},
 	}
